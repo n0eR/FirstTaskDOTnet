@@ -1,0 +1,12 @@
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\FirstTask\ConsoleApp1\bin\Debug\netcoreapp3.1\FirstTask.exe
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\FirstTask\ConsoleApp1\bin\Debug\netcoreapp3.1\FirstTask.deps.json
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\FirstTask\ConsoleApp1\bin\Debug\netcoreapp3.1\FirstTask.runtimeconfig.json
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\FirstTask\ConsoleApp1\bin\Debug\netcoreapp3.1\FirstTask.runtimeconfig.dev.json
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\FirstTask\ConsoleApp1\bin\Debug\netcoreapp3.1\FirstTask.dll
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\FirstTask\ConsoleApp1\bin\Debug\netcoreapp3.1\FirstTask.pdb
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\FirstTask\ConsoleApp1\obj\Debug\netcoreapp3.1\FirstTask.AssemblyInfoInputs.cache
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\FirstTask\ConsoleApp1\obj\Debug\netcoreapp3.1\FirstTask.AssemblyInfo.cs
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\FirstTask\ConsoleApp1\obj\Debug\netcoreapp3.1\FirstTask.csproj.CoreCompileInputs.cache
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\FirstTask\ConsoleApp1\obj\Debug\netcoreapp3.1\FirstTask.dll
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\FirstTask\ConsoleApp1\obj\Debug\netcoreapp3.1\FirstTask.pdb
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\FirstTask\ConsoleApp1\obj\Debug\netcoreapp3.1\FirstTask.genruntimeconfig.cache
